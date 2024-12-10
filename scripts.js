@@ -43,7 +43,3 @@ function formatCurrencyBRL(value){
     currency: 'BRL',
   })
 }
-
-/*currency.addEventListener('input', () => {
-  console.log(currency.value)
-})*/
